@@ -1,0 +1,14 @@
+[user]
+	name = Takumi Ueda
+	email =
+[push]
+	default = simple
+[color]
+	ui = auto
+[alias]
+	b = branch
+	d = diff
+	s = status
+[core]
+	quotepath = false
+	excludesfile = ~/.gitignore
