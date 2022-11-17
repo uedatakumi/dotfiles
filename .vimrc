@@ -1,0 +1,11 @@
+set autoindent
+set autoread
+set encoding=utf8
+set expandtab
+set hlsearch
+set ignorecase
+set incsearch
+set number
+set ruler
+set shiftwidth=2
+set tabstop=2
