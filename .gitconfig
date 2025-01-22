@@ -1,6 +1,6 @@
 [user]
 	name = Takumi Ueda
-	email =
+	email = takumi@ueda.dev
 [push]
 	default = simple
 [color]
@@ -12,5 +12,10 @@
 [core]
 	quotepath = false
 	excludesfile = ~/.gitignore
+	pager = delta -- --theme="GitHub"
+[delta]
+    side-by-side = true
+[interactive]
+    diffFilter = delta --color-only
 [init]
   defaultBranch = main
