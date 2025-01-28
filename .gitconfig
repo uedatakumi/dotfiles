@@ -10,12 +10,12 @@
 	d = diff
 	s = status
 [core]
-    quotepath = false
-    excludesfile = ~/.gitignore
-    pager = delta -- --theme="GitHub"
+	quotepath = false
+	excludesfile = ~/.gitignore
+	pager = delta -- --theme="GitHub"
 [delta]
-    side-by-side = true
+	side-by-side = true
 [interactive]
-    diffFilter = delta --color-only
+	diffFilter = delta --color-only
 [init]
-    defaultBranch = main
+	defaultBranch = main
